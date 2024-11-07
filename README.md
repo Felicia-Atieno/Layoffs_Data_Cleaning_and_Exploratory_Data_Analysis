@@ -53,7 +53,11 @@ FROM t1;
 2. Most of the layoffs occurred in the year 2022.
 3. There was a sharp increase in layoffs over the year 2022 compared to a much lower increase in 2021.
 4. For each year, these companies had the highest number of layoffs;
-   2020 - Uber,
-   2021 - ByteDance,
-   2022 - Meta,
+   
+   2020 - Uber
+   
+   2021 - ByteDance
+   
+   2022 - Meta
+   
    2023 - Google.
